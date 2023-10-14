@@ -11,11 +11,11 @@ Qtのアプリケーション作成1
 
 1  qmake -project
 
-2  qmake ファイル名.pro
+2  qmake (ディレクトリー名).pro
 
 3  make
 
-4  ./ファイル名
+4  ./(ディレクトリー名)
 
 
 
