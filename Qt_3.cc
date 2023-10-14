@@ -5,6 +5,9 @@
 //sliderとspinboxの表示・layoutの使用方法
 //sliderとspinboxの同期、初期値の設定
 //
+//QhBoxLayout-ウィジェットを左から右に配置する
+//QVBoxLayout-ウィジェットを上から下に配置する
+//QGridLayout-ウィジェットを格子上に配置する。
 ////////////////////////////////////////////////////////////////////////
 
 #include    <QApplication>
